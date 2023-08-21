@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog1</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/Dialog1.xml</path>
+  <messages>
+    <Message>
+      <messageText>finalmente ci siamo! Perfetto!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Ну наконец то мы на месте! Прекрасно!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Теперь наш отпуск начинается! Но как же надоело сидеть в самолете!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Слышу ты успел подучить пару слов из разговорника.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>А что еще там было делать, amore mio?!  (моя любовь) </messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris3</MessageName>
+    </Message>
+    <Message>
+      <messageText>Хе-хе.. Так! Куда нам дальше?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Сейчас разберемся. Должно быть не далеко.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris4</MessageName>
+    </Message>
+  </messages>
+</MessageData>

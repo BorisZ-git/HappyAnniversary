@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>ButtonActive</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/Button</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/Button/ButtonActive.xml</path>
+  <messages>
+    <Message>
+      <messageText>Я уже активировала кнопку!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>ButtonActive0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Кнопка нажата! Что-то наверняка изменилось , нужно осмотреться.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>ButtonActive1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Нужно подождать пока кнопка отожметься, чтобы ее нажать!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>ButtonActive2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

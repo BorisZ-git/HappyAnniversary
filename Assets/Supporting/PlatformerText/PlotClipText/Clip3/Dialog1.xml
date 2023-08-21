@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog1</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip3</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip3/Dialog1.xml</path>
+  <messages>
+    <Message>
+      <messageText>Так вспомнить бы в какой магазин я отнесла подарок на упаковку…</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Они все так похожи друг на друга</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+  </messages>
+</MessageData>

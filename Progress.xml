@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<SaveProgress xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveProgress>
+    <SaveLevel>
+      <name>Level 1</name>
+      <buildName>Level_1</buildName>
+      <index>0</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 2</name>
+      <buildName>Level_2</buildName>
+      <index>1</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 3</name>
+      <buildName>Level_3</buildName>
+      <index>2</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 4</name>
+      <buildName>Level_4</buildName>
+      <index>3</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 5</name>
+      <buildName>Level_5</buildName>
+      <index>4</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 6</name>
+      <buildName>Level_6</buildName>
+      <index>5</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 7</name>
+      <buildName>Level_7</buildName>
+      <index>6</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 8</name>
+      <buildName>Level_8</buildName>
+      <index>7</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 9</name>
+      <buildName>Level_9</buildName>
+      <index>8</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>Level 10</name>
+      <buildName>Level_10</buildName>
+      <index>9</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>BonusLevel 11</name>
+      <buildName>BonusLevel_11</buildName>
+      <index>10</index>
+    </SaveLevel>
+    <SaveLevel>
+      <name>BossLevel 12</name>
+      <buildName>BossLevel_12</buildName>
+      <index>11</index>
+    </SaveLevel>
+  </saveProgress>
+</SaveProgress>

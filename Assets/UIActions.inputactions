@@ -1,0 +1,34 @@
+{
+    "name": "UIActions",
+    "maps": [
+        {
+            "name": "UIControlls",
+            "id": "192980de-cac0-4c16-85c4-bc10f0ea30de",
+            "actions": [
+                {
+                    "name": "Esc",
+                    "type": "Button",
+                    "id": "fc2efc92-32d0-41ef-95cd-936f01cdccb6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "381d88e6-261b-4057-9772-d3a69768a97c",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Esc",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

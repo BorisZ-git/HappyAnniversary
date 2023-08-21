@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>GameEnter1</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/GameEnter</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/GameEnter/GameEnter1.xml</path>
+  <messages>
+    <Message>
+      <messageText>А зачем эта кнопочка...</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>О! Такие образом я могу добраться в самые разные места! Perfetto!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+  </messages>
+</MessageData>

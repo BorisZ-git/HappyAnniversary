@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>ButtonActivate</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/Button</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/Button/ButtonActivate.xml</path>
+  <messages>
+    <Message>
+      <messageText>Где-то, что-то заскрипело, нужно осмотреться!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>ButtonActivate0</MessageName>
+    </Message>
+    <Message>
+      <messageText>О-о зелененький!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>ButtonActivate1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Платформа двигаеться! Какая интересная система светофоров!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>6</readTime>
+      <MessageName>ButtonActivate2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

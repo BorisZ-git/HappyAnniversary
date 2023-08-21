@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog3</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip2</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip2/Dialog3.xml</path>
+  <messages>
+    <Message>
+      <messageText>Отлично, значит у меня есть время прогуляться по городу и заодно зайти забрать подарок.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+  </messages>
+</MessageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>BonusLevel1</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/BonusLevel</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/BonusLevel/BonusLevel1.xml</path>
+  <messages>
+    <Message>
+      <messageText>Ура! подарок у меня!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Но времени почти не осталось</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+    <Message>
+      <messageText>А значит пора идти на пролом!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>StoreIsCheck</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/CheckPoint</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/CheckPoint/StoreIsCheck.xml</path>
+  <messages>
+    <Message>
+      <messageText>Я уже заходила в этот магазин</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>IsCheck0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Кажется, это не тот магазин</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>IsCheck1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Кажется, я тут уже была</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>IsCheck2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Это точно не тот магазин</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>IsCheck3</MessageName>
+    </Message>
+    <Message>
+      <messageText>Нужно искать дальше</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>IsCheck4</MessageName>
+    </Message>
+  </messages>
+</MessageData>

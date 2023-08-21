@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>EnterVilla</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/EnterVilla.xml</path>
+  <messages>
+    <Message>
+      <messageText>Casa, Dolce Casa (Дом, милый дом)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+  </messages>
+</MessageData>

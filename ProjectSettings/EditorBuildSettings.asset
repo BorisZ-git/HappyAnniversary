@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/StartMenu.unity
+    guid: 424475969e1018e44a16a12a533fe862
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel1/PlotLevel1Clip1.unity
+    guid: fa0bd66663eea664fa3509f904a68c7b
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel1/PlotLevel1Clip2.unity
+    guid: 4760191d7791307438c5d8f8bacf291e
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel1/PlotLevel1Clip3.unity
+    guid: ee7df151753eda44f93a51396beff29f
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel1/PlotLevel1Clip4.unity
+    guid: 8042666b2f1b0e94b9a1c73b166a24e8
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel2/PlotLevel2Clip5.unity
+    guid: c8db5bdf956f2664e8a6a7b0375e1f08
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/PlotLevel3/PlotLevel3Clip1.unity
+    guid: 700391752c639eb40aff7cbe2be28a2e
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_1.unity
+    guid: e8f2fe6d59070d34bb6037af36c7c97a
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/GameEnter/PlotLevel4Clip1(Platforms).unity
+    guid: 38963bf0185b2a1469c928dd83332164
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_2.unity
+    guid: 3cf406c1ea36cef45be0bc8d674b2cb5
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_3.unity
+    guid: b8da6099e6e984e46bc81b0fa4cb7e90
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/GameEnter/PlotLevel5Clip1(Timer).unity
+    guid: 703b0338f7628f64ca91fd4602d0d3c8
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_4.unity
+    guid: b52b540ce2451774f8c0280440e48db0
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_5.unity
+    guid: 97c8e8a328221f642961e09eb5a60d64
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_6.unity
+    guid: 74005072cf6ee1f42bc731fa388e5bf3
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_7.unity
+    guid: cb48aa6d03b6ad44fb013a3a85e25d49
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/GameEnter/PlotLevel6Clip1(Enemy).unity
+    guid: 390827c45a65e6b429588c1413428230
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_8.unity
+    guid: 242275e13014aca41821b526979c3222
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_9.unity
+    guid: c05bd1265a8263949b528f489472e378
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/Level_10.unity
+    guid: 9b018692ecfab434cba989eb2233c248
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/BonusLevel/PlotLevel7Clip1(BonusLvl).unity
+    guid: cb8faf048ab59844886eb43233e656f5
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/BonusLevel_11.unity
+    guid: c12a5b445b65cc145ae7c3d50e97fd5d
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/BossLevel/PlotLevel8Clip1(BossLvl).unity
+    guid: 8cf5d6f0a44660a4686745d10e14efb6
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/GameLevels/BossLevel_12.unity
+    guid: 586e59e020d66cd43af2aed4ab48d4e5
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/Platformer/Plot/FinalLevel/PlotLevel9Clip1(FinalLvl).unity
+    guid: 16c4c6803cee32448a6152695155f105
+  - enabled: 1
+    path: Assets/_Presentation/Scenes/EndScene.unity
+    guid: c10c2313e2c1bfe489037bb7e71dab8b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fb40e616e0b5b5f44955d36373aaf85d, type: 2}

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>ExitIsFalse</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/ExitPoint</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/ExitPoint/ExitIsFalse.xml</path>
+  <messages>
+    <Message>
+      <messageText>Я еще не все осмотрела на этой улице.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>ExitCheck0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Еще не время отчаиваться, нужный магазин может быть где-то здесь!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>6</readTime>
+      <MessageName>ExitCheck1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Может сначала проверить магазины?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>ExitCheck2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Не хочу потом удивляться, что пропустила нужный магазин!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>ExitCheck3</MessageName>
+    </Message>
+  </messages>
+</MessageData>

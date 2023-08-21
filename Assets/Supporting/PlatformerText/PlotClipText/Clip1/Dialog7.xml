@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog7</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/Dialog7.xml</path>
+  <messages>
+    <Message>
+      <messageText>Надо будет сходить и завернуть подарок. Наверняка Здесь есть какие нибудь магазины, которые упаковывают.</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+  </messages>
+</MessageData>

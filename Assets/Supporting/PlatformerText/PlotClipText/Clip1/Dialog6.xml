@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog6</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/Dialog6.xml</path>
+  <messages>
+    <Message>
+      <messageText>А ты помнишь что у нас завтра годовщина?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+    <Message>
+      <messageText>А как же =)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Мне кое-что еще надо подготовить, так что я отойду не на долго</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Boris1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Хорошо я тоже пока подготовлюсь)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+  </messages>
+</MessageData>

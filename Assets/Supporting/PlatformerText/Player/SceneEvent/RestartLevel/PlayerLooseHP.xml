@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>PlayerLooseHP</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/RestartLevel</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/RestartLevel/PlayerLooseHP.xml</path>
+  <messages>
+    <Message>
+      <messageText>Какая усталость навалилась! Надо передохнуть...</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>PlayerLooseHP</MessageName>
+    </Message>
+  </messages>
+</MessageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog8</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/Dialog8.xml</path>
+  <messages>
+    <Message>
+      <messageText>Куда ходила?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Да так прогуляться и по магазинам</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Нашла что нибудь интересное?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Boris1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Нашла то что искала, только далековато!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+    <Message>
+      <messageText>А ты все сделал?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Alice2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Почти.. Завтра надо будет отойти еще, но к вечеру точно все будет готово и можно будет отметить нашу годовщину</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Boris2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

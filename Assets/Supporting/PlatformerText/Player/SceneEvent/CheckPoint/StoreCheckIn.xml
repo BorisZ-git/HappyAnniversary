@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>StoreCheckIn</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/CheckPoint</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/CheckPoint/StoreCheckIn.xml</path>
+  <messages>
+    <Message>
+      <messageText>Эх.. Не тот магазин, а с виду так похож!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Check0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Опять не тот!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Check1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Да где же он!?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Check2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Похоже это будут долгие поиски...</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>Check3</MessageName>
+    </Message>
+    <Message>
+      <messageText>Видимо мне придеться обойти весь город...</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>Check4</MessageName>
+    </Message>
+    <Message>
+      <messageText>Кошмар вроде такой маленький городок, а ощущение что здоровенный лабиринт!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>6</readTime>
+      <MessageName>Check5</MessageName>
+    </Message>
+    <Message>
+      <messageText>В следующий раз я сохраню геолакацию нужного мне места!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>Check6</MessageName>
+    </Message>
+  </messages>
+</MessageData>

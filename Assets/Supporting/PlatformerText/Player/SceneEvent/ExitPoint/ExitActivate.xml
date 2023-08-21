@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>ExitActivate</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/ExitPoint</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/ExitPoint/ExitActivate.xml</path>
+  <messages>
+    <Message>
+      <messageText>На этой улице я осмотрела все магазины.. Пора переходить на другую!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>6</readTime>
+      <MessageName>ExitActive0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Здесь все не то! Двигаемся дальше!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>ExitActive1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Опять улица разбитых надежд, надеюсь следующая будет более оптимистична!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>6</readTime>
+      <MessageName>ExitActive2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>GameEnter3</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/GameEnter</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/GameEnter/GameEnter3.xml</path>
+  <messages>
+    <Message>
+      <messageText>Ай!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Какие грузные ребята, фиг обойдешь!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Ну ничего у меня есть свои методы борьбы с такими!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>3</readTime>
+      <MessageName>Alice2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>PlayerHurt</fileName>
+  <filePath>Assets/Supporting/PlatformerText/Player/SceneEvent/Enemy</filePath>
+  <path>Assets/Supporting/PlatformerText/Player/SceneEvent/Enemy/PlayerHurt.xml</path>
+  <messages>
+    <Message>
+      <messageText>Ай!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>PlayerHurted1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Как грубо!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>PlayerHurted2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Смотри куда идешь!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>PlayerHurted3</MessageName>
+    </Message>
+    <Message>
+      <messageText>Зачем толкаться?!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>PlayerHurted4</MessageName>
+    </Message>
+  </messages>
+</MessageData>

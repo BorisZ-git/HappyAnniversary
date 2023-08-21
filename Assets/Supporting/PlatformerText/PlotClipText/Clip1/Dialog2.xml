@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog2</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip1</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip1/Dialog2.xml</path>
+  <messages>
+    <Message>
+      <messageText>Блин, прикольно конечно они тут отстроились!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Bello! (Красиво)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>1</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+    <Message>
+      <messageText>О-о-о кто-то готовился к поездке? =)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Да-а.. Надо же хоть пару слов на Итальянском понимать =)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Все правильно! Когда-нибудь мы сюда переедем и это тебе пригодиться!</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Хотя ты наверняка займешь место знойной, итальянской красотки, а им на сколько я знаю хватает и пары слов =)</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Boris3</MessageName>
+    </Message>
+    <Message>
+      <messageText>Это каких например?</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Alice2</MessageName>
+    </Message>
+    <Message>
+      <messageText>Ну типа: "Какая сегодня жара", но ты, я думаю, можешь отделаться простым "Ах-х"</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Boris4</MessageName>
+    </Message>
+  </messages>
+</MessageData>

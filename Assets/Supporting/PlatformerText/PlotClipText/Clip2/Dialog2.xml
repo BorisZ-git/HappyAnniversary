@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>Dialog2</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/Clip2</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/Clip2/Dialog2.xml</path>
+  <messages>
+    <Message>
+      <messageText>Buongiorno, amore mio!(Доброе утро, любовь моя) </messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris0</MessageName>
+    </Message>
+    <Message>
+      <messageText>Я ушел готовиться к празднику, жду тебя, сегодня вечером, на том береге, который проходили вчера!</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>4</readTime>
+      <MessageName>Boris1</MessageName>
+    </Message>
+    <Message>
+      <messageText>Хорошего дня =*</messageText>
+      <isPrint>0</isPrint>
+      <isLeftSideSpeaker>0</isLeftSideSpeaker>
+      <readTime>2</readTime>
+      <MessageName>Boris2</MessageName>
+    </Message>
+  </messages>
+</MessageData>

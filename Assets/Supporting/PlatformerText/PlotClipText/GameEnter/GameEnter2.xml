@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileName>GameEnter2</fileName>
+  <filePath>Assets/Supporting/PlatformerText/PlotClipText/GameEnter</filePath>
+  <path>Assets/Supporting/PlatformerText/PlotClipText/GameEnter/GameEnter2.xml</path>
+  <messages>
+    <Message>
+      <messageText>Не стоит тратить много времени на одну улицу иначе могу не успеть, а то и вовсе заблудиться</messageText>
+      <isPrint>1</isPrint>
+      <isLeftSideSpeaker>1</isLeftSideSpeaker>
+      <readTime>5</readTime>
+      <MessageName>Alice0</MessageName>
+    </Message>
+  </messages>
+</MessageData>
