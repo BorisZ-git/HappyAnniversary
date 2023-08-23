@@ -5,16 +5,18 @@ namespace GameControl
 {
     public class PrefabsHash : MonoBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
-        }
+        [SerializeField] private GameObject _player;
+        [SerializeField] private GameObject _enemy;
+        [SerializeField] private GameObject _bonusHP;
+        [SerializeField] private GameObject _bonusMap;
+        [SerializeField] private GameObject _bonusMP;
 
-        // Update is called once per frame
-        void Update()
-        {
 
-        }
+        public GameObject Player { get => _player; }
+        public GameObject Enemy { get => _enemy; }
+        public GameObject BonusHP { get => _bonusHP; }
+        public GameObject BonusMap { get => _bonusMap; }
+        public GameObject BonusMP { get => _bonusMP; }
     }
 }
 
