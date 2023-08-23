@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace GameControl
 {
+    /// <summary>
+    /// Contains links on game prefabs for short call instantiate
+    /// </summary>
     public class PrefabsHash : MonoBehaviour
     {
         [SerializeField] private GameObject _player;
@@ -10,7 +13,6 @@ namespace GameControl
         [SerializeField] private GameObject _bonusHP;
         [SerializeField] private GameObject _bonusMap;
         [SerializeField] private GameObject _bonusMP;
-
 
         public GameObject Player { get => _player; }
         public GameObject Enemy { get => _enemy; }

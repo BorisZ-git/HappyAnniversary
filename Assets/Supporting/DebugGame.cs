@@ -18,7 +18,15 @@ namespace DebugCheatCods
         private int _sceneIndex;
         private void Start()
         {
-            DontDestroyOnLoad(this);
+            if(Singltone<DebugGame>.singletone != null)
+            {
+                Destroy(this.gameObject);
+            }
+            else
+            {
+                Singltone<DebugGame>.SetSingltone(this);
+                DontDestroyOnLoad(this);
+            }
         }
         private void Update()
         {

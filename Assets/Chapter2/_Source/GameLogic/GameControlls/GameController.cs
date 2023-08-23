@@ -3,25 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace GameControl
 {
+    /// <summary>
+    /// This class open scene and start run game logic.
+    /// Realize singltone pattern in base class
+    /// </summary>
     public class GameController : AbstractGameController
     {
         // Restruct Singltone
-        // Need global links for object like player
+        // Need global links for object like player - LinksHash = done;
         // Need check for exclusive object
-        private void Start()
+        // Need create prefab who will contain script FillScene and instantiate object - (Filler)
+        // Need channel between Filler and objects that responsible for spawnPoints
+        public override void Awake()
         {
-            Singletone();
-            DontDestroyOnLoad(this);
-        }
-        private void Singletone()
-        {
-            if (SingletoneGameController._singletone != null) { Destroy(this.gameObject); }
-            else
-            {
-                SingletoneGameController._singletone = this;
-                _prefabsHashObj = Instantiate(_prefabsHashObj, transform);
-                _prefabsHash = _prefabsHashObj.GetComponent<PrefabsHash>();
-            }
+            base.Awake();
+            /*
+             * FillScene.StartScene() = этот класс будет запускать цепочку методов, которые считывают точки респавна и заполняет их подходящими объектами;
+             * CheckPlayerExist() = проверить существует ли игрок
+             * FillScene.SetPlayer(Player) = передаем нашего игрока и класс выставляет его на нужную точку;
+             * protected SpawnPoint();
+             */
         }
         /// <summary>
         /// On start call for another class method that fills scene with enemy player and other objects
