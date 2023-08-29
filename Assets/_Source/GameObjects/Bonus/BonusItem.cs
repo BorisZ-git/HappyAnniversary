@@ -11,13 +11,9 @@ namespace Bonus
         [Header("Layers")]
         [SerializeField] private LayerMask _player;
         private AudioSource _audioSource;
-        private SpriteRenderer _spriteRender;
-        private Collider2D _collider;
         private void Awake()
         {
             _audioSource = GetComponent<AudioSource>();
-            _spriteRender = GetComponentInChildren<SpriteRenderer>();
-            _collider = GetComponent<Collider2D>();
         }
         private void OnTriggerEnter2D(Collider2D collision)
         {
@@ -28,17 +24,7 @@ namespace Bonus
         }
         virtual protected void Taked(GameObject player)
         {
-            _audioSource.Play();
-            _spriteRender.enabled = false;
-            _collider.enabled = false;
-            StartCoroutine(WaitAudio());
-            //Destroy(gameObject);
-        } 
-        IEnumerator WaitAudio()
-        {
-            yield return new WaitForSeconds(.6f);
-            _collider.enabled = true;
-            _spriteRender.enabled = true;
+            player.GetComponent<AudioSource>().PlayOneShot(_audioSource.clip);
             gameObject.SetActive(false);
         }
     }

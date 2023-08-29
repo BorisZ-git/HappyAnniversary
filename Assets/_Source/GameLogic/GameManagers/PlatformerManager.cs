@@ -102,7 +102,7 @@ namespace GameManager
         }
         public void PlayerLooseAllHPMsg()
         {
-            _msgLvlController.ShowMessage(_player.GetComponentInChildren<SpriteRenderer>().sprite, MessagePathStore.PlayerLooseHp, 0);
+            _msgLvlController.ShowMessage(_talkerPlayer, MessagePathStore.PlayerLooseHp, 0);
         }
         public void PlayerFindStore()
         {
