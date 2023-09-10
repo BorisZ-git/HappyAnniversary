@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+// 1. Начать писать геймдиз объект, который будет создавать точки и тд для заполнения игрового уровня
 namespace GameControl
 {
     /// <summary>
